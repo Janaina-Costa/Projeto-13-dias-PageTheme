@@ -1,0 +1,21 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+#color{
+    display: flex;  
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 10px;   
+    background-image: linear-gradient(rgba(12, 12, 12, 0.309), rgba(0, 0, 0, 0.494)100%);
+    border-radius: 20px;
+    background-color: deepskyblue;
+    border-style: inset;
+    
+ 
+}
